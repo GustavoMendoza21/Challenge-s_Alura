@@ -1,5 +1,5 @@
 /*diseño_Visual*/
-*{
+body{
     margin: 0;
     padding: 0;
     /*background: radial-gradient(#FEFEFE, #888888)*/
@@ -9,7 +9,7 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    background: #f3f5fc;
+    background: #d8dfe8;
 }
 
 .texto{
